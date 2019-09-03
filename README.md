@@ -1,3 +1,5 @@
+# Fork from [wechat-miniprogram](https://github.com/wechat-miniprogram/lottie-miniprogram)
+
 # Lottie for MiniProgram
 
 [![](https://img.shields.io/npm/v/lottie-miniprogram)](https://www.npmjs.com/package/lottie-miniprogram)
@@ -57,6 +59,7 @@ lottie.loadAnimation({
 * animationData
 * path （只支持网络地址）
 * rendererSettings.context （必填）
+#### [其他API](http://airbnb.io/lottie/#/web?id=html-player-installation)
 
 ## 说明
 * 本项目是以 npm 的方式依赖原 lottie-web 项目，若原项目有新版本，可直接改变依赖的版本号。
